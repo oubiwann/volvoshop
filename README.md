@@ -1,5 +1,5 @@
+<h1 style="text-decoration: none; border: none;">volvoshop</h1>
 <a href="resources/images/volvo-p1800-15-large.jpg"><img align="right" style="float: right !important" src="resources/images/volvo-p1800-15-thumb.jpg" /></a>
-# volvoshop
 
 *A Demo Erlang/LFE REST App for Google Cloud Platform Custom Runtimes*
 
