@@ -2,10 +2,10 @@
 
 *A Demo Erlang/LFE REST App for Google Cloud Platform Custom Runtimes*
 
-<a href="resources/images/volvo-p1800-15-large.jpg"><img align="right" style="float: right !important" src="resources/images/volvo-p1800-15-thumb.jpg" /></a>
 
 ## Introduction
 
+<a href="resources/images/volvo-p1800-15-large.jpg"><img align="right" style="float: right !important" src="resources/images/volvo-p1800-15-thumb.jpg" /></a>
 This project was lovingly copied from
 [cloudy](https://github.com/oubiwann/cloudy),
 the sample project created as part of the
