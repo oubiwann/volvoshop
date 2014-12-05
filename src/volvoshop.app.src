@@ -1,8 +1,9 @@
 %% -*- erlang -*-
-{application, 'cloudy',
+{application, volvoshop,
  [
   %% A quick description of the application.
-  {description, "My project description..."},
+  {description,
+    "A Demo Erlang/LFE REST App for Google Cloud Platform Custom Runtimes"},
 
   %% The version of the application
   {vsn, "0.0.1"},
@@ -10,7 +11,7 @@
   %% All modules used by the application.
   {modules,
    [
-    'cloudy'
+    volvoshop
    ]},
 
   %% All of the registered names the application uses. This can be ignored.
