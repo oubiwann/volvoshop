@@ -2,7 +2,7 @@
 
 *A Demo Erlang/LFE REST App for Google Cloud Platform Custom Runtimes*
 
-<a href="resources/images/volvo-p1800-15-large.jpg"><img src="resources/images/volvo-p1800-15-thumb.jpg" /></a>
+<div style="float: left"><a href="resources/images/volvo-p1800-15-large.jpg"><img src="resources/images/volvo-p1800-15-thumb.jpg" /></a></div>
 
 ## Introduction
 
